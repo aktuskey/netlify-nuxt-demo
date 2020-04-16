@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: aktuskey/netlify-nuxt-demo
+  name: git-gateway
   branch: master
 
 media_folder: static/img
